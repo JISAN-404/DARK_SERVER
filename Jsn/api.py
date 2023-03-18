@@ -69,7 +69,6 @@ def get(url, params=None, **kwargs):
     :return: :class:`Response <Response>` object
     :rtype: requests.Response
     """
-#    print(url)
     return request("get", url, params=params, **kwargs)
 
 
