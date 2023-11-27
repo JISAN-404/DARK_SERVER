@@ -1,1 +1,1 @@
-[IEDQ/IE4D;IEDY/77.0.0.20.66;IEEY/30034644;IEGP/{ghqvlwb=3.0,zlgwk=1080,khljkw=1806};IEOF/hq_XV;IEFU/qxoo;IEPI/WHFQR;IEEG/WHFQR;IESQ/frp.idfherrn.ndwdqd;IEGY/Skdqwrp6;IEVY/6.0;IERS/1;IEFD/duphdel-y7d:duphdel;]
+[IEDQ/IE4D;IEDY/1.9.12;IEGP/{ghqvlwb=1.0,zlgwk=1024,khljkw=552};IEOF/hq_JE;IEFU/JOREH;IESQ/frp.idfherrn.ndwdqd;IEGY/JW-S3100;IEVY/4.0.4;]
