@@ -1,1 +1,1 @@
-[IEDQ/IE4D;IEDY/278.0.0.51.119;IEEY/229281745;IEGP/{ghqvlwb=2.0,zlgwk=720,khljkw=1280};IEOF/hq_LQ;IEUY/0;IEFU/L WLP;IEPI/vdpvxqj;IEEG/vdpvxqj;IESQ/frp.idfherrn.ndwdqd;IEGY/VP-M710I;IEVY/8.1.0;IERS/19;IEFD/duphdel-y7d:duphdel;]
+[IEDQ/IE4D;IEDY/278.0.0.51.119;IEEY/229281745;IEGP/{ghqvlwb=2.0,zlgwk=720,khljkw=1199};IEOF/hq_XV;IEUY/0;IEFU/;IEPI/OJH;IEEG/ojh;IESQ/frp.idfherrn.ndwdqd;IEGY/OJO84YO;IEVY/7.0;IERS/19;IEFD/duphdel-y7d:duphdel;]'
